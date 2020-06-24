@@ -3,8 +3,9 @@ This is my version of https://github.com/ryanmcdermott/clean-code-javascript rep
 
 Q&A:
 
-Q: What are the changes that ?
-A: 1) Navigation: removed all annoying links to the table of content to reduce visual noise and overall document weight.
+Q: What have been changed?
+A: 
+ 1) Navigation: removed all annoying links to the table of content to reduce visual noise and overall document weight.
  2) Structure: SOLID principles chapter has been extended with Other , .
  3) Readability: less words. Definitions first. Semantic intendation. References and external links.
 
